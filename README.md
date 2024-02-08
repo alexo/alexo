@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I am Alex, an experienced software engineer from Romania (Cluj-Napoca). 
 
 - 📫 How to reach me: [Twitter](https://twitter.com/alexobjelean), [LinkedIn](https://www.linkedin.com/in/alexobjelean/)
-
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=alexo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-stats-rho-beige-43.vercel.app/api?username=alexo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=alexo&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=alexo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats-rho-beige-43.vercel.app/api/top-langs/?username=alexo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
